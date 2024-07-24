@@ -34,4 +34,5 @@ To run this project, ensure you have Python installed. Follow these steps to set
 - "source env/bin/activate  # On Windows, use `env\Scripts\activate`"
 
 
-### **Summary and Impact**
+## **Summary and Impact**
+This project has demonstrated the practical application and benefits of sentiment analysis for the IMDb dataset. By implementing a Logistic Regression model, we achieved a robust, efficient, and interpretable solution for classifying movie reviews. This not only enhances user experience and provides valuable insights but also sets the stage for future advancements in natural language processing and machine learning within the IMDb platform.
